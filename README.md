@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 I like to learn and teach.
 
-I'm passionate about science and knowledge. Althought formed as biologist,
+I'm passionate about science and knowledge. Althought trained as biologist,
 my interests go from Physics and Mathematics to Software Engineering, and
 I wish I had more time to explore these fields in all their depth.
