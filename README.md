@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Metagenomics, Computational Biology, Microbial Ecology and Bioprospecting.
+- 🔭 I’m currently working on Metagenomics, Computational Biology, Machine Learning applications in Biology and CRISPR.
 - 🌱 I’m currently learning Programming and Data Science.
 
 I like to learn and teach.
