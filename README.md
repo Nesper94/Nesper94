@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Metagenomics, Computational Biology, Machine Learning applications in Biology and CRISPR.
+- 🔭 I’m currently working on Computational Biology, Machine Learning applications in Biology, X Chromosome Inactivation and CRISPR systems.
 - 🌱 I’m currently learning Programming and Data Science.
 
-I like to learn and teach.
+I like to learn and teach. I am now promoting the development of Computational
+Biology in Colombia 🇨🇴, you can visit our [group web page](https://biologia-computacional.github.io/)
+if you are interested.
 
 I'm passionate about science and knowledge. Althought trained as biologist,
 my interests go from Physics and Mathematics to Software Engineering, and
